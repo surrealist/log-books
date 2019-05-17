@@ -10,6 +10,7 @@ using Microsoft.Extensions.Logging;
 
 namespace LogBook
 {
+  // Entry-point of the app.
   public class Program
   {
     public static void Main(string[] args)
