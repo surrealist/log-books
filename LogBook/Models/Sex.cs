@@ -10,6 +10,8 @@ namespace LogBook.Models
     Unknown = 0,
     Male = 1,
     Female = 2,
-    Unspecified = 9
+
+    // adjust value
+    Unspecified = 100
   }
 }
