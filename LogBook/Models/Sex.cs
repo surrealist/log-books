@@ -10,6 +10,8 @@ namespace LogBook.Models
     Unknown = 0,
     Male = 1,
     Female = 2,
-    Unspecified = 9
+
+    // user don't want to tell us.
+    Unspecified = 999
   }
 }
